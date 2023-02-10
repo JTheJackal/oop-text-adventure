@@ -1,0 +1,15 @@
+C:\Projects\tutorials\oop-text-adventure\bin\Debug\net6.0\oop-text-adventure.exe
+C:\Projects\tutorials\oop-text-adventure\bin\Debug\net6.0\oop-text-adventure.deps.json
+C:\Projects\tutorials\oop-text-adventure\bin\Debug\net6.0\oop-text-adventure.runtimeconfig.json
+C:\Projects\tutorials\oop-text-adventure\bin\Debug\net6.0\oop-text-adventure.dll
+C:\Projects\tutorials\oop-text-adventure\bin\Debug\net6.0\oop-text-adventure.pdb
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\oop-text-adventure.csproj.AssemblyReference.cache
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\oop-text-adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\oop-text-adventure.AssemblyInfoInputs.cache
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\oop-text-adventure.AssemblyInfo.cs
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\oop-text-adventure.csproj.CoreCompileInputs.cache
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\oop-text-adventure.dll
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\refint\oop-text-adventure.dll
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\oop-text-adventure.pdb
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\oop-text-adventure.genruntimeconfig.cache
+C:\Projects\tutorials\oop-text-adventure\obj\Debug\net6.0\ref\oop-text-adventure.dll
